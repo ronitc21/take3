@@ -34,7 +34,7 @@ $ git push heroku master
 $ heroku run python manage.py migrate
 $ heroku open
 
-```![ezgif com-gif-maker](https://user-images.githubusercontent.com/63046023/164817283-9f135177-c0f9-4555-b6db-eb29e7a32f4f.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63046023/164817283-9f135177-c0f9-4555-b6db-eb29e7a32f4f.gif)
 
 or
 
